@@ -1,3 +1,5 @@
+# TO VIEW JUPYTER CODE : https://nbviewer.org/github/Kkingcode/Machine-learning-comparison-on-bakery-sales-dataset-on-special-days-holidays-/blob/master/bakery.ipynb
+
 This project utilizes existing bakery sales data to predict sales for upcoming special days, specifically holidays. 
 The dataset was obtained from Kaggle [[link](https://www.kaggle.com/datasets/matthieugimbert/french-bakery-daily-sales)], 
 and a separate dataset with holiday dates was downloaded from [https://publicholidays.fr/2021-dates/]. 
